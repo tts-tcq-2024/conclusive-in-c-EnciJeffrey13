@@ -45,6 +45,7 @@ Think about guiding refactoring-work in your regular/project teams. Think of the
 You have seen a few workflows in this repository. They are quality-gates to prevent duplication, control complexity and prove functionality. Do you think some of them have potential to guide code-improvements in your team? **_enter yes/no**
 
 During the next four weeks, what improvement do you plan in your code-quality practice? (in your regular work, not in this repository!)
+
 **-->Introduce quality gates in the CI/CD pipeline similar to the ones observed, such as checks for code duplication and complexity. This will help in maintaining a consistent standard of code quality and catching potential issues early.
 -->Encourage the team to refactor functions with high cyclomatic complexity
 -->Commit to increasing unit test coverage across all projects. Regularly review and write tests for uncovered lines of code, ensuring all possible variations are accounted for. This will lead to more robust and reliable code.
