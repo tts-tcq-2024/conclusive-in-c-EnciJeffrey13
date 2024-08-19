@@ -1,6 +1,6 @@
 #pragma once
 
-#include "TemperatureClassification.h"
+#include "TempClassification.h"
 #include "AlertMechanism.h"
 
 typedef struct {
